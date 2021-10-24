@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607782353 source:d:\project\c++\newcoratcoret\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+

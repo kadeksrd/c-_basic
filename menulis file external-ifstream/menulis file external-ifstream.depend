@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618584800 source:d:\project\c++\menulis file external-ifstream\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

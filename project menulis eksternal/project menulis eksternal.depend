@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618927433 source:d:\project\c++\project menulis eksternal\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1618927438 source:d:\project\c++\project menulis eksternal\baca.cpp
+	<iostream>
+	<fstream>
+	<string>
+

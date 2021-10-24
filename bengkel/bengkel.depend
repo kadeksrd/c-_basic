@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618708701 source:d:\project\c++\bengkel\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

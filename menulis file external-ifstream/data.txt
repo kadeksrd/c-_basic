@@ -1,0 +1,8 @@
+ini adalah sebuah data
+kemahasiswaan yang banyak
+
+silahkan tuliskan 
+no    nama
+1     ucup
+2     ayup
+3     enup

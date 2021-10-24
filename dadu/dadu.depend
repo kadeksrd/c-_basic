@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616904227 source:d:\project\c++\dadu\main.cpp
+	<iostream>
+	<stdlib.h>
+

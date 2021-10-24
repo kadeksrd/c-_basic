@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618593946 source:d:\project\c++\coretan\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

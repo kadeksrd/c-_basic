@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1607606250 source:d:\project\c++\newcoratcoret\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+
+1607606250 source:d:\project\c++\atm\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+
+1619600750 source:d:\project\c++ dasar\atm\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+

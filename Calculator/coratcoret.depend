@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1607497365 source:d:\project\c++\coratcoret\main.cpp
+	<conio.h>
+	<math.h>
+	<iostream>
+	<string>
+
+1607497424 source:d:\project\c++\calculator\main.cpp
+	<conio.h>
+	<math.h>
+	<iostream>
+	<string>
+
